@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AR Face Tracking.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 28598cde8766b10428a71fa31c93e224, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 769932749a075154985675bbc34a05ca, type: 2}
