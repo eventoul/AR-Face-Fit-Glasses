@@ -225,7 +225,7 @@ SkinnedMeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6862162869562102510}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -237,8 +237,8 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 5561349426305759274, guid: ce90eecb30e1d984f9be5baa2884e1c6, type: 3}
-  - {fileID: -4552654492251842235, guid: ce90eecb30e1d984f9be5baa2884e1c6, type: 3}
+  - {fileID: 2100000, guid: f02599e07cf38fa419e554f119cd7653, type: 2}
+  - {fileID: 2100000, guid: f02599e07cf38fa419e554f119cd7653, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
