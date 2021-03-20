@@ -1,5 +1,10 @@
 # AR-FaceTracking
- AR Face Tracking. Add a mask to your face and follow the motions of your face.
+ It is an app by which you can fit three kinds of glasses to your face. <br> <br>
+ 
+ - Select a kind of glasses to fit your face.
+ - See more info about your selection.
+ - Change the color of the glasses (available colors: Black, Blue).
+ 
  
 ## Unity version
  Unity 2020.3.0f1 <br/>
