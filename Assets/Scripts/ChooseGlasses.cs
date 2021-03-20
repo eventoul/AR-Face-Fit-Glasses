@@ -34,21 +34,21 @@ public class ChooseGlasses : MonoBehaviour
         
     }
 
-    public void Classes1Selected()
+    private void Classes1Selected()
     {
         glasses1.SetActive(true);
         glasses2.SetActive(false);
         glasses3.SetActive(false);
     }
 
-    public void Classes2Selected()
+    private void Classes2Selected()
     {
         glasses1.SetActive(false);
         glasses2.SetActive(true);
         glasses3.SetActive(false);
     }
 
-    public void Classes3Selected()
+    private void Classes3Selected()
     {
         glasses1.SetActive(false);
         glasses2.SetActive(false);

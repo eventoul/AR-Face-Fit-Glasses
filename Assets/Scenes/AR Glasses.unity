@@ -324,7 +324,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 39171593}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses1InfoBoxEnable
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &39171593
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -667,7 +679,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &401272608
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -680,6 +692,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d85002e303380541adf39791e5e2982, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  glasses1Info: {fileID: 672571631}
+  glasses2Info: {fileID: 1534278551}
+  glasses3Info: {fileID: 1674684706}
 --- !u!4 &401272609
 Transform:
   m_ObjectHideFlags: 0
@@ -775,7 +790,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 423729154}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses1InfoBoxDisable
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &423729154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1440,7 +1467,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 855958607}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses3InfoBoxEnable
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &855958607
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1776,7 +1815,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1289912197}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses3InfoBoxDisable
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1289912197
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2136,7 +2187,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1513246812}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses2InfoBoxDisable
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1513246812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2596,7 +2659,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1936984479}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses2InfoBoxEnable
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1936984479
 MonoBehaviour:
   m_ObjectHideFlags: 0
