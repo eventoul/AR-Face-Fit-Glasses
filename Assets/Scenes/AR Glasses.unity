@@ -204,7 +204,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 31383386}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses1Buy
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &31383386
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -695,6 +707,9 @@ MonoBehaviour:
   glasses1Info: {fileID: 672571631}
   glasses2Info: {fileID: 1534278551}
   glasses3Info: {fileID: 1674684706}
+  glasses1Material: {fileID: 2100000, guid: be29dfd6cc5244b40b84958a005e6e95, type: 2}
+  glasses2Material: {fileID: 2100000, guid: a9dafb6942c774300b48852b972eda7f, type: 2}
+  glasses3Material: {fileID: 2100000, guid: 35681ccd9fc0b4bb690e2dc3c31d71c6, type: 2}
 --- !u!4 &401272609
 Transform:
   m_ObjectHideFlags: 0
@@ -922,7 +937,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 486835575}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses3ChangeColor
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &486835575
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1042,7 +1069,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 638107916}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses1ChangeColor
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &638107916
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1347,7 +1386,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 753658957}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses2ChangeColor
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &753658957
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1947,7 +1998,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1331132730}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses3ChangeColor
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1331132730
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2067,7 +2130,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1484292195}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses1ChangeColor
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1484292195
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2539,7 +2614,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1785331441}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses3Buy
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1785331441
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2791,7 +2878,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2025035031}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses2Buy
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2025035031
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2911,7 +3010,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2026702708}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401272608}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: Glasses2ChangeColor
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2026702708
 MonoBehaviour:
   m_ObjectHideFlags: 0
