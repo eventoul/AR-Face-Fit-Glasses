@@ -10,9 +10,9 @@ public class ChooseGlasses : MonoBehaviour
     public GameObject glasses2;
     public GameObject glasses3;
 
-    Button glasses1Button;
-    Button glasses2Button;
-    Button glasses3Button;
+    private Button glasses1Button;
+    private Button glasses2Button;
+    private Button glasses3Button;
 
     // Start is called before the first frame update
     void Start()
