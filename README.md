@@ -7,7 +7,7 @@
  
  
 ## Unity version
- Unity 2020.3.0f1 <br/>
- AR Foundation 4.1.15 <br/>
- AR Core 4.1.15 <br/>
+ Unity 2020.3.2f1 <br/>
+ AR Foundation 4.1.7 <br/>
+ AR Core 4.1.7 <br/>
  
