@@ -1,4 +1,4 @@
-# AR-FaceTracking
+# AR-Face-Fit-Glasses
  It is an app by which you can fit three kinds of glasses to your face. <br> <br>
  
  - Select a kind of glasses to fit your face.
